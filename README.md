@@ -104,4 +104,4 @@ This tool is not meant convert package.json into a Makefile-like format. Its foc
 
 I find it useful to describe your desired folder structure in package.json. And at the same time, allow it to be built out. I hope you do too!
 
-Hopefully Helpful! -TamusJRoyce
+
