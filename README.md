@@ -1,2 +1,2 @@
-Recoverie archive for UMIDIGI DEVICES.
-Select the several Branches....
+Recoveries archives for UMIDIGI DEVICES.
+Select the several Branches....for the several devices
