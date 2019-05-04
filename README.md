@@ -64,10 +64,10 @@ Front Camera | 8 MP (Samsung)
  * yuweng
  * StevenMAxs
  
-### Thanks to Umidigi Staff:
+### Thanks to Umidigi Staff to authorize me to pubblish this Repository:
  * Yan bo
  * Bencebacsi
- * Marcin
+ 
 
 ### To build: 
 ```
