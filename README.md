@@ -52,21 +52,21 @@ This branches repository is for building TWRP.
 
 ### Thanks to:
  * CyanogenMod team
- * Deepflex
- * Wuxianlin
- * Ferhung
- * SHVED
- * Xen0n
- * JonnyXDA
- * olegsvs
- * Visi0nary
- * andyrichardson
- * Team M.A.D
+ * Mike Admin of XDA
  * BigBiff
+ * BluFireBird alias Carliv
+ * M3n3chm0
+ * HypoTurtle
+ * Bigrammy
+ * C3C076
+ * Lovetz
+ * Icemam1966
+ * yuweng
+ * StevenMAxs
  
 ### Thanks to Umidigi Staff:
  * Yan bo
- * Ben
+ * Bencebacsi
  * Marcin
 
 ### To build: 
