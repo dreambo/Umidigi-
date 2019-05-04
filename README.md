@@ -1,15 +1,15 @@
+   Umidigi Devices Repository
+   ==========================
 
 ![Umidigi Devices](https://www.umidigi.com/images/others/umidigi_logo.png)
 
-Umidigi Devices Repository
-==========================
 
 
 Actual Devices in this Repository:
 ==================================
-S3-Pro.
-F1.
-F1-Pro
+* S3-Pro.
+* F1.
+* F1-Play.
 
 
 
