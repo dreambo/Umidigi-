@@ -70,7 +70,8 @@ Front Camera | 8 MP (Samsung)
 
 # Thanks to:
  * CyanogenMod team
- * Mike Admin of XDA
+ * TeamWin
+ * Mike the Admin of XDA
  * BigBiff
  * BluFireBird alias Carliv
  * M3n3chm0
@@ -81,6 +82,7 @@ Front Camera | 8 MP (Samsung)
  * Icemam1966
  * yuweng
  * StevenMAxs
+ * All the Staff of Androidiani.com Italian Forum.
  
 # Thanks to Umidigi Staff to authorize me to pubblish this Repository:
  * Yan bo
