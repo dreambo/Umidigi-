@@ -16,7 +16,7 @@ Actual Devices in this Repository:
 .
 .
 
-#### Details of Umidigi S3-Pro Smartphone from Umidigi brand.
+# Details of Umidigi S3-Pro Smartphone from Umidigi brand.
 
 
 Basic   | Spec Sheet
@@ -38,7 +38,7 @@ Front Camera | 20 MP Sony IMX376
 .
 .
 .
-#### Details of Umidigi F1-Play Smartphone from Umidigi brand.
+# Details of Umidigi F1-Play Smartphone from Umidigi brand.
 
 
 Basic   | Spec Sheet
