@@ -62,7 +62,7 @@ Front Camera | 8 MP (Samsung)
 
 
 ![Umidigi Brand](https://github.com/ghost-45/Umidigi-/blob/master/Umidigi.png)
-.
+#
 .
 .
 
@@ -84,7 +84,8 @@ Front Camera | 8 MP (Samsung)
  * StevenMAxs
  * All the Staff of Androidiani.com Italian Forum.
  
-# Thanks to Umidigi Staff to authorize me to pubblish this Repository:
+# Thanks to:
+  Umidigi Staff to authorize me to pubblish this Repository:
  * Yan bo
  * Bencebacsi
  
