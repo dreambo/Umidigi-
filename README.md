@@ -48,7 +48,7 @@ Front Camera | 8 MP (Samsung)
 ![Umidigi Devices](https://www.umidigi.com/new/Images/f1play/black.jpg "Umidigi F1-Play in black")
 
 
-This branches repository is for building TWRP.
+#### This branches repository is for building TWRP and to make known the Kernel and others details.
 
 ### Thanks to:
  * CyanogenMod team
