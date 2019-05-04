@@ -68,7 +68,7 @@ Front Camera | 8 MP (Samsung)
 
 # These branches repository is for building TWRP and to make known the Kernels and others details of Umidigi Devices.
 
-### Thanks to:
+# Thanks to:
  * CyanogenMod team
  * Mike Admin of XDA
  * BigBiff
@@ -82,12 +82,12 @@ Front Camera | 8 MP (Samsung)
  * yuweng
  * StevenMAxs
  
-### Thanks to Umidigi Staff to authorize me to pubblish this Repository:
+# Thanks to Umidigi Staff to authorize me to pubblish this Repository:
  * Yan bo
  * Bencebacsi
  
 
-### To build: 
+# News: 
 ```
 
 ```
