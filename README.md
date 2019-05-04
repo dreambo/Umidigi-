@@ -1,7 +1,7 @@
   Umidigi Official Devices Repository
   ===================================
 
-![Umidigi Devices](https://www.umidigi.com/images/others/umidigi_logo.png)
+![Umidigi Brand](https://www.umidigi.com/images/others/umidigi_logo.png)
 
 
 
@@ -47,6 +47,11 @@ Front Camera | 8 MP (Samsung)
 
 ![Umidigi Devices](https://www.umidigi.com/new/Images/f1play/black.jpg "Umidigi F1-Play in black")
 
+
+
+
+
+![Umidigi Brand] (https://github.com/ghost-45/Umidigi-/blob/master/Umidigi.png)
 
 #### This branches repository is for building TWRP and to make known the Kernel and others details.
 
