@@ -31,7 +31,7 @@ Display | 6.3" 1920 x 1080 px
 Rear Camera  | 48MP (Sony IMX586),LED Flash, 
 Front Camera | 20 MP Sony IMX376
 
-![Umidigi Devices](https://lh5.googleusercontent.com/0euvxzpMkKoWacNBEw_ef6ohCObwM9TkF7d7G5-_RCml_f-Z6GJsmkXzj52zaLCsbHuHStL23tXArrtcX3X3GlbEoLCsJ1HFr3CWVJltGN_E9tf12bS3z9_k-FOtNTpo6eq562x0 "Umidigi S3-Pro in black")
+![Umidigi Devices](https://community.umidigi.com/data/attachment/forum/201905/04/220519zwftmftfmfaplvkh.jpg "Umidigi S3-Pro in black")
 
 
 
