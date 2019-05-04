@@ -3,11 +3,19 @@
 
 Umidigi Devices Repository
 ==========================
+
+
 Actual Devices in this Repository:
+==================================
+S3-Pro.
+F1.
+F1-Pro
+
+
 
 The Umidigi S3-Pro (codenamed _"S3-Pro"_) is a flagship smartphone from Umidigi.
 It was announced on 2019.
-
+========================
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | 2.0GHz Octa-Core MT6755 (Helio P60)
