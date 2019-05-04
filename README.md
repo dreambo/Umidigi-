@@ -10,8 +10,8 @@ Actual Devices in this Repository:
 * S3-Pro.
 * F1.
 * F1-Play.
-
-
+* Z2-Pro.
+#
 .
 .
 .
