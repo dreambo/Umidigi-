@@ -53,7 +53,7 @@ Front Camera | 8 MP (Samsung)
 
 ![Umidigi Brand](https://github.com/ghost-45/Umidigi-/blob/master/Umidigi.png)
 
-#### This branches repository is for building TWRP and to make known the Kernel and others details.
+# These branches repository is for building TWRP and to make known the Kernels and others details of Umidigi Devices.
 
 ### Thanks to:
  * CyanogenMod team
