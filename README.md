@@ -1,7 +1,8 @@
-  ####           Umidigi Devices Repository
-  ####           ==========================
+  Umidigi Devices Repository
+  ==========================
 
-![Umidigi Devices](https://www.umidigi.com/images/others/umidigi_logo.png)
+![Umidigi Devices]
+(https://www.umidigi.com/images/others/umidigi_logo.png)
 
 
 
