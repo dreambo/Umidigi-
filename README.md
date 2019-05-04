@@ -1,5 +1,7 @@
-Umidigi Devices Repository
+
 ![Umidigi Devices](https://www.umidigi.com/images/others/umidigi_logo.png)
+
+Umidigi Devices Repository
 ==========================
 Actual Devices in this Repository:
 
@@ -34,17 +36,16 @@ This branch is for building TWRP.
  * Visi0nary
  * andyrichardson
  * Team M.A.D
+ * BigBiff
+ 
+### Thanks to Umidigi Staff:
+ * Yan bo
+ * Ben
+ * Marcin
 
 ### To build: 
 ```
-repo init -u git://github.com/
 
-repo sync
-
-. build/envsetup.sh
-
-
-make clean && make recoveryimage
 ```
 
 
