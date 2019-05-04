@@ -53,7 +53,7 @@ Display | 6.3" 1920 x 1080 px
 Rear Camera  | 48MP (Samsung),Dual LED Flash, 
 Front Camera | 8 MP (Samsung)
 
-![Umidigi Devices](https://www.umidigi.com/new/Images/f1play/black.jpg "Umidigi F1-Play in black")
+![Umidigi Devices](https://community.umidigi.com/data/attachment/forum/201905/04/221019h3uug26ynz9g4y6l.jpg "Umidigi F1-Play in black")
 
 .
 .
