@@ -12,8 +12,11 @@ Actual Devices in this Repository:
 * F1-Play.
 
 
+.
+.
+.
 
-#### The Umidigi S3-Pro Smartphone from Umidigi brand.
+#### Details of Umidigi S3-Pro Smartphone from Umidigi brand.
 
 
 Basic   | Spec Sheet
@@ -30,7 +33,12 @@ Front Camera | 20 MP Sony IMX376
 
 ![Umidigi Devices](https://lh6.googleusercontent.com/14LQr0O-Maf5QWqGh1rlj6gM1W8B6tj-EFe8gQrLW4ujGYTBc6aY_zp66-BAXXm0nPEpvujv1vhYdIT_P8ipArBwskxgBUBCvS-fJ2h1dhDrYVoBeL1oZ9cBpkAcmDz8qahpuRIK "Umidigi S3-Pro in black")
 
-#### The Umidigi F1-Play Smartphone from Umidigi brand.
+
+
+.
+.
+.
+#### Details of Umidigi F1-Play Smartphone from Umidigi brand.
 
 
 Basic   | Spec Sheet
@@ -47,11 +55,16 @@ Front Camera | 8 MP (Samsung)
 
 ![Umidigi Devices](https://www.umidigi.com/new/Images/f1play/black.jpg "Umidigi F1-Play in black")
 
+.
+.
 
 
 
 
 ![Umidigi Brand](https://github.com/ghost-45/Umidigi-/blob/master/Umidigi.png)
+.
+.
+.
 
 # These branches repository is for building TWRP and to make known the Kernels and others details of Umidigi Devices.
 
